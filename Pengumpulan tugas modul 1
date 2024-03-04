@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Mulai bagian kepala dokumen HTML -->
+        <meta charset="UTF-8"> <!-- Menentukan set karakter UTF-8 -->
+        <title>Pengenalan HTML Dasar</title> <!-- Judul halaman -->
+    </head>
+    <body>
+        <!-- Mulai bagian tubuh dokumen HTML -->
+        <strong> Praktikum Pemrograman Web Informatika</strong> <!-- Teks tebal -->
+        <hr> <!-- Garis horizontal -->
+        <h1>pengenalan HTML Tingkat Dasar</h1> <!-- Judul level 1 -->
+        <hr> <!-- Garis horizontal -->
+    </body>
+</html>
